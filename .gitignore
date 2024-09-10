@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# CSV files
+*.csv
+
+# JSON files
+*.json
+
+# HTML files
+*.html
+
+# Knowledge graphs directory
+knowledge_graphs/
+
+# Python cache files
+__pycache__/
+*.py[cod]
